@@ -10,6 +10,7 @@ A REST API for User and Role management, token generation and validation
 - [Tests](#tests)
 
 
+
 ## Features
 This features are available in this service
 
@@ -49,6 +50,7 @@ $ nano application.properties
 $ mvn spring-boot:run
 ```
 Note: An IDE like **IntelliJ** can perform these tasks for you automatically
+
 
 ## Data Seed
 Inside the package **com.tericcabrel.authorization.bootstrap**, the file named _DataSeeder.java_ 
